@@ -1,0 +1,33 @@
+.navbar{
+    background-color: rgb(22, 100, 189);
+    color: aliceblue;
+    padding: 10px 60px;
+    justify-content: space-between;
+}
+
+.avatar-ctn{
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.avatar{
+    width: 65%;
+    border-bottom: 1px solid rgba(0,0,0,0.125);
+}
+
+/*Search bar on viewDoctors page*/
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
