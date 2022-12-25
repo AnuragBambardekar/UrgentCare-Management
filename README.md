@@ -6,4 +6,4 @@ Used MySQL as a Database for storing Data of the actors and their respective col
 **Technologies used:** JavaScript, HTML, CSS. 
 **Authentication:** Used bcryptJS to hash the passwords and JWT for authentication.
 
-##The final implementation can be found at the following link: https://github.com/utkarshjha1994/Urgent_Care
+## The final implementation can be found at the following link: https://github.com/utkarshjha1994/Urgent_Care
